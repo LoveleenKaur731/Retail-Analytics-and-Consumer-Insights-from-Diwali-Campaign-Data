@@ -44,8 +44,15 @@ project_folder/
 
 ## Key Findings
 
-Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
+Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka, primarily working in IT, Healthcare, and Aviation sectors, are more likely to purchase products from the Food, Clothing, and Electronics categories.
 
+### Recommendations
+
+- **Target married women aged 26–35** through personalized Diwali campaigns across major states like **Uttar Pradesh, Maharashtra, and Karnataka**.
+- **Focus marketing efforts on professionals in IT, Healthcare, and Aviation sectors**, as they form a large customer base.
+- Promote products in high-performing categories like **Food, Clothing, and Electronics** through festive offers and bundles.
+- Launch **regional digital ad campaigns** in Central, Southern, and Western zones to enhance customer engagement.
+- Provide **bundle discounts or loyalty programs** for repeat buyers to increase average order value and retention.
 
 
 
