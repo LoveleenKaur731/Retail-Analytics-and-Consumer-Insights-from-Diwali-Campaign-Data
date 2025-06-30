@@ -24,27 +24,14 @@ The following methods were used in this EDA project:
 * **Matplotlib:** For creating basic visualizations.
 * **Seaborn:** For creating advanced and informative statistical graphics.
 
-## Project Structure
-
-project_folder/
-│
-├── data/              # Contains the dataset
-│   └── [dataset_name].csv
-│
-├── notebooks/         # Jupyter notebooks used for EDA
-│   └── eda_notebook.ipynb
-│
-├── README.md          # Project documentation
-
-## How to Run
-
-1.  Clone this repository.
-2.  Install the required libraries: `pip install pandas numpy matplotlib seaborn`
-3.  Run the Jupyter notebook `eda_notebook.ipynb` to reproduce the analysis.
-
 ## Key Findings
 
-Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka, primarily working in IT, Healthcare, and Aviation sectors, are more likely to purchase products from the Food, Clothing, and Electronics categories.
+- **Women shoppers outnumber men**, especially in the age group of **26–35 years**.
+- **Most purchases were made by married customers**, indicating family-oriented shopping behavior during Diwali.
+- Customers from **Uttar Pradesh, Maharashtra, and Karnataka** contributed the most to sales.
+- **Top 3 product categories** by total amount spent are **Food, Clothing, and Electronics**.
+- Customers working in **IT, Healthcare, and Aviation** industries were the most active shoppers.
+- **High-value purchases** were made more frequently by customers aged **26–45 years**.
 
 ### Recommendations
 
